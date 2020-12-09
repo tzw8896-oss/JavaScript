@@ -18,7 +18,7 @@
 
 ⚠️cookie获取方法：
 
-进 https://m.q.qq.com/a/s/d3eacc70120b9a37e46bad408c0c4c2a  点我的   获取cookie
+进 https://m.q.qq.com/a/s/439b8f7bf2b6ee37a6e2d391882ace4e  点我的   获取cookie
 
 进一本书 看 10秒以下 然后退出，获取阅读时长cookie，看书一定不能超过10秒
 
